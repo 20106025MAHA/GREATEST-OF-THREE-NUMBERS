@@ -14,15 +14,15 @@ public class BiggestNumber
    Z=s.nextint();
    if(x>y&&x>z)
    {
-   system.out.println("largest number is:"+x);
+   system.out.println("largest number is:"+X);
    }
    else if(y>x&&y>z)
    {
-   system.out.println("largest number is:"+y);
+   system.out.println("largest number is:"+Y);
    }
    else
    {
-   system.out.println("largest number is:"+z);
+   system.out.println("largest number is:"+Z);
    }
   }
  }
